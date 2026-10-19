@@ -1,0 +1,1 @@
+Hãy đặt file mô hình mobile_face_net.tflite vào đây.
